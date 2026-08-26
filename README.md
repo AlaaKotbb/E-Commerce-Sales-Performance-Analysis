@@ -26,8 +26,8 @@ This project takes a messy, real-world-style retail sales dataset and transforms
 5. **Relationship building** — connected each dimension to the fact table on its key (ProductID, ChannelID, RegionID, Date), all as clean 1-to-many relationships with no redundant data.
 
 ## 🗺️ Data Model
+v<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/eea752c8-cbdc-4d0d-9316-52e0f0c68460" />
 
-![Star Schema Data Model](assets/star_schema_diagram.png)
 
 **Fact table — `AllSales`**
 `ChannelID` · `Date` · `Discount` · `ProductID` · `Quantity` · `RegionID` · `SalesRepID` · `SegmentID`
@@ -47,7 +47,8 @@ A clean, scalable star schema that supports fast, reliable reporting — with a 
 ## 🖼️ Dashboard Preview
 The model powers an interactive Power BI **Annual Sales Report**, with year-over-year KPIs, category and channel breakdowns, and a drill-down table:
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](v<img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/2f0a0024-e3a6-4271-83a4-7f90d263f014" />
+)
 
 ## 📁 Repository Structure
 ```
