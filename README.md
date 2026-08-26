@@ -1,4 +1,5 @@
-![Retail Data Cleaning & Star Schema](assets/banner_star_schema.png)
+![Retail Data Cleaning & Star Schema](<img width="1280" height="320" alt="banner_star_schema" src="https://github.com/user-attachments/assets/5a745ff2-98b8-4c38-b8be-60e246b82f39" />
+)
 
 # Retail Data Cleaning & Star Schema Modeling
 
