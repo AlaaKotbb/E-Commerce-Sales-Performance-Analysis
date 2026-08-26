@@ -28,7 +28,8 @@ This project analyzes annual sales data to uncover performance insights across p
 
 ## 🗺️ Data Model
 
-![Star Schema Data Model](<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/0bbbd26d-a4d3-40e8-8f3b-55dc92a938cc" />
+![Star Schema Data Model](<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/0025c508-c1fe-48ba-915f-08bec816b0cb" />)
+
 )
 
 **Fact table — `AllSales`**
@@ -46,7 +47,8 @@ This project analyzes annual sales data to uncover performance insights across p
 ## 🖼️ Dashboard — Annual Sales Report
 The model powers an interactive Power BI dashboard with year-over-year KPIs, category and channel breakdowns, and a drill-down table:
 
-![Dashboard Preview](<img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/05e1c469-a6bc-4af1-a969-edbe78a83c8c" />
+![Dashboard Preview](<img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/9358525a-7bdb-4af9-be00-a3f9f47c9f7b" />)
+
 )
 
 ## 📊 Key Results (2020)
