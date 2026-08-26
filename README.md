@@ -29,6 +29,7 @@ This project analyzes annual sales data to uncover performance insights across p
 ## 🗺️ Data Model
 
 ![Star Schema Data Model](<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/0025c508-c1fe-48ba-915f-08bec816b0cb" />)
+<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/87225f15-5f42-47c1-844f-2287f91c590f" />
 
 )
 
@@ -48,6 +49,7 @@ This project analyzes annual sales data to uncover performance insights across p
 The model powers an interactive Power BI dashboard with year-over-year KPIs, category and channel breakdowns, and a drill-down table:
 
 ![Dashboard Preview](<img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/9358525a-7bdb-4af9-be00-a3f9f47c9f7b" />)
+<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/fe30d0aa-eb44-474b-9d18-59b9e69fda7b" />
 
 )
 
