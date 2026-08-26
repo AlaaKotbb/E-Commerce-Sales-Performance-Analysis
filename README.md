@@ -28,7 +28,8 @@ This project analyzes annual sales data to uncover performance insights across p
 
 ## 🗺️ Data Model
 
-![Star Schema Data Model](assets/star_schema_diagram.png)
+![Star Schema Data Model](<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/0bbbd26d-a4d3-40e8-8f3b-55dc92a938cc" />
+)
 
 **Fact table — `AllSales`**
 `ChannelID` · `Date` · `Discount` · `ProductID` · `Quantity` · `RegionID` · `SalesRepID` · `SegmentID`
@@ -45,7 +46,8 @@ This project analyzes annual sales data to uncover performance insights across p
 ## 🖼️ Dashboard — Annual Sales Report
 The model powers an interactive Power BI dashboard with year-over-year KPIs, category and channel breakdowns, and a drill-down table:
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](<img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/05e1c469-a6bc-4af1-a969-edbe78a83c8c" />
+)
 
 ## 📊 Key Results (2020)
 - **Total Sales:** $10.01M — up **25.6%** year-over-year.
