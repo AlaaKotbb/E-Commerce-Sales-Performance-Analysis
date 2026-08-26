@@ -49,7 +49,8 @@ This project analyzes annual sales data to uncover performance insights across p
 The model powers an interactive Power BI dashboard with year-over-year KPIs, category and channel breakdowns, and a drill-down table:
 
 ![Dashboard Preview](<img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/9358525a-7bdb-4af9-be00-a3f9f47c9f7b" />)
-<img width="1246" height="774" alt="image" src="https://github.com/user-attachments/assets/fe30d0aa-eb44-474b-9d18-59b9e69fda7b" />
+<img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/d8eb1a43-94dd-43ab-ab71-4911969725f6" />
+
 
 )
 
